@@ -8,8 +8,8 @@ C World
 Brief Introduction of this DSPD_Lab_Practicals Repository:-
 "DSPD_Lab_Practicals" Repository has been part of learning and teaching material for the most of the Engineering and Science Institutes around the country for years now.
 This Repo contains total 13 Lab Practical Problems of C language on different topics like array, structure, binary search, bubble sort, structure, queue, stack, linked lists, tree, graph, file handling, hash set which covers maximum part of any Programming Language.
-Go through all these programs to learn How to solve any program or How to approach towards the solution of given problem . I solved many problems in different different ways through which you can grasp that concept easily and quickly.
-DSPD-Lab_C_Practicals:
+Go through all these programs to learn How to solve any program or How to approach towards the solution of given problem . I solved many problems in different different ways through which you can grasp that concept easily and quickly.<br>
+DSPD-Lab_C_Practicals:<br>
 Lab_1A: [lab_1a_oddeven](https://github.com/IshanBhasme/DSPD_Lab_practicals_YCCE/tree/main/lab_1a_oddeven)<br>
 Lab_1B: [lab_1b_binarysearch](https://github.com/IshanBhasme/DSPD_Lab_practicals_YCCE/tree/main/lab_1b_binarysearch)<br>
 Lab_1C: [lab_1c_structure](http://github.com/IshanBhasme/DSPD_Lab_practicals_YCCE/tree/main/lab_1c_structure)<br>
