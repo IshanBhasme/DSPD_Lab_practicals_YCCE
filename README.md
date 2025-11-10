@@ -1,7 +1,10 @@
 DSPD-Lab_Practicals_YCCE
 This repository contains Data Structures Lab programs and outputs excuted by Ishan Narendra Bhasme(Roll No: B-134,Registration No:-24071113) in YCCE IT Department.
 C World
+
 ![Alt Text](https://tse4.mm.bing.net/th/id/OIP.drga9bD68Ww2tx1ET5ElGAHaH_?pid=Api&P=0&h=180)
+
+
 Brief Introduction of this DSPD_Lab_Practicals Repository:-
 "DSPD_Lab_Practicals" Repository has been part of learning and teaching material for the most of the Engineering and Science Institutes around the country for years now.
 This Repo contains total 13 Lab Practical Problems of C language on different topics like array, structure, binary search, bubble sort, structure, queue, stack, linked lists, tree, graph, file handling, hash set which covers maximum part of any Programming Language.
@@ -23,6 +26,9 @@ Thankyou for your visit.
 If you have any suggestion or any query related to this Repo,
 You can Leave your comment on ishanbhasme768@gmail.com
 I will try to resolve your query as soon as possible.
+
 ![Alt Text](https://tse2.mm.bing.net/th/id/OIP.qZMIMShj-fclHYOaH1OBFAHaHa?pid=Api&P=0&h=180)
+
+
 ---- C Language ----
 Thank You! Visit Again!
